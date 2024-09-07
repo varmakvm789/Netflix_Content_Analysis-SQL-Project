@@ -1,4 +1,4 @@
--- SQL Business Queriers Solutions of Netflix Project --
+-- SQL Business Queries Solutions of Netflix Project --
 
 SELECT * FROM Netflix ;
 
