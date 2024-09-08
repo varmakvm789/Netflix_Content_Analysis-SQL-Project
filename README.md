@@ -348,7 +348,7 @@ WHERE dense_rank = 1;
 
 ## Feedback
 I hope you found this project insightful. I'd love to hear your thoughts and feedback on my analysis. Feel free to connect with me or suggest any improvements!
-- 💬 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/varmakvm/)
+- 💬 Connect with me on LinkedIn: [VARMA KVM](https://www.linkedin.com/in/varmakvm/)
 - 📧 For inquiries, drop me an email at varmakvm789@gmail.com
 
 ---
