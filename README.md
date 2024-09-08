@@ -1,5 +1,7 @@
 # **Netflix Content Data Analysis using SQL**
 
+![](https://github.com/varmakvm789/Netflix_Content_Analysis-SQL-Project/blob/main/i582969.jpeg)
+
 ## **Overview**
 
 This project analyzes Netflix’s movies and TV shows dataset using SQL. The objective is to extract key insights and answer various business questions based on the data set through SQL. The following README provides a detailed account of the project's objectives, business problems, solutions, findings, and conclusions
