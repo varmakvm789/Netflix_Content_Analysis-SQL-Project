@@ -1,6 +1,6 @@
 # **Netflix Content Data Analysis using SQL**
 
-![](https://github.com/varmakvm789/Netflix_Content_Analysis-SQL-Project/blob/main/i582969.jpeg)
+![](https://github.com/varmakvm789/Netflix_Content_Analysis-SQL-Project/blob/main/images%20(1).jpeg)
 
 ## **Overview**
 
