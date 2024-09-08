@@ -346,6 +346,9 @@ WHERE dense_rank = 1;
 - **Genre Insights:** The most common genres and ratings highlight Netflix's content strategy to target specific audiences.
 - **Regional Trends:** Countries like the U.S., India, and the U.K. are leading contributors to Netflix's content catalog.
 
+## Feedback
+I hope you found this project insightful. I'd love to hear your thoughts and feedback on my analysis. Feel free to connect with me or suggest any improvements!
+
 ---
 
 This README is designed to demonstrate SQL analysis of Netflix's content data, providing insights into content trends, popular genres, regional content, and more.
